@@ -1,18 +1,7 @@
-#streamlit web ui
-streamlit==1.29.0
-pytz
-
-#llama
-ollama
-langchain-ollama
+streamlit
 pandas
-langchain_huggingface
-langchain[embeddings]
-elasticsearch
-
-
-#Fast API
-
-fastapi 
-uvicorn
-gunicorn
+pymysql
+python-dotenv
+openai
+sqlalchemy
+httpx
