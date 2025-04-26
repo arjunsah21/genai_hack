@@ -1,0 +1,4 @@
+.myEnv/
+__pycache__/
+chat_histories/
+*.log

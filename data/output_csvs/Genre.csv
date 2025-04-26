@@ -1,0 +1,329 @@
+index,Name,GID
+0,"Adventure, Drama, Fantasy            ",0
+1,"Action, Comedy, Crime            ",1
+2,"Action, Adventure, Fantasy            ",2
+3,"Action, Adventure, Sci-Fi            ",3
+4,"Drama, Horror, Thriller            ",4
+5,"Drama, Romance            ",5
+6,"Comedy, Crime, Thriller            ",6
+7,"Biography, Drama            ",7
+8,"Comedy, Drama, Family            ",8
+9,"Action, Sci-Fi, Thriller            ",9
+10,Comedy            ,10
+11,"Drama, Sci-Fi            ",11
+12,"Action, Thriller            ",12
+13,"Action, Comedy, Sci-Fi            ",13
+14,"Comedy, Horror            ",14
+15,"Action, Adventure            ",15
+16,"Comedy, Drama            ",16
+17,"Crime, Drama, History            ",17
+18,"Adventure, Comedy, Drama            ",18
+19,Drama            ,19
+20,"Comedy, Drama, Romance            ",20
+21,"Action, Biography, Drama            ",21
+22,Romance            ,22
+23,"Action, Comedy, Drama            ",23
+24,"Drama, Romance, Sci-Fi            ",24
+25,"Adventure, Comedy            ",25
+26,"Drama, Family            ",26
+27,"Action, Drama, History            ",27
+28,"Comedy, Drama, Fantasy            ",28
+29,"Adventure, Biography, Drama            ",29
+30,"Action, Adventure, Thriller            ",30
+31,"Crime, Drama, Romance            ",31
+32,"Biography, Drama, History            ",32
+33,"Biography, Comedy, Drama            ",33
+34,"Drama, Thriller            ",34
+35,"Action, Drama, Mystery            ",35
+36,"Action, Adventure, Comedy            ",36
+37,"Adventure, Drama, Thriller            ",37
+38,"Drama, History, Romance            ",38
+39,"Action, Drama, Thriller            ",39
+40,"Comedy, Romance            ",40
+41,"Adventure, Drama, Musical            ",41
+42,"Action, Crime, Thriller            ",42
+43,"Crime, Drama, Mystery            ",43
+44,"Action, Drama, Fantasy            ",44
+45,"Drama, History, Sport            ",45
+46,"Action, Drama            ",46
+47,"Biography, Drama, Sport            ",47
+48,"Action, Drama, Sport            ",48
+49,"Comedy, Drama, Musical            ",49
+50,"Crime, Drama, Thriller            ",50
+51,"Adventure, Drama, History            ",51
+52,"Drama, Musical, Romance            ",52
+53,"Crime, Thriller            ",53
+54,"Action, Crime, Drama            ",54
+55,"Crime, Drama            ",55
+56,"Biography, Crime, Drama            ",56
+57,"Mystery, Thriller            ",57
+58,"Action, Drama, Romance            ",58
+59,"Animation, Adventure, Comedy            ",59
+60,"Drama, Family, Romance            ",60
+61,"Biography, Sport            ",61
+62,"Drama, History            ",62
+63,"Drama, Music, Musical            ",63
+64,"Drama, Music            ",64
+65,"Action, Comedy, Romance            ",65
+66,Horror            ,66
+67,"Action, Drama, Musical            ",67
+68,"Drama, Mystery, Thriller            ",68
+69,"Action, Adventure, Romance            ",69
+70,"Drama, War            ",70
+71,"Drama, Family, Musical            ",71
+72,"Action, Comedy            ",72
+73,"Comedy, Drama, Music            ",73
+74,"Action, Biography, Crime            ",74
+75,"Drama, Sport            ",75
+76,"Comedy, Thriller            ",76
+77,"Comedy, Drama, Horror            ",77
+78,"Fantasy, Horror, Mystery            ",78
+79,"Drama, Family, Sport            ",79
+80,"Action, Adventure, Crime            ",80
+81,"Comedy, Music, Romance            ",81
+82,"Action, Comedy, History            ",82
+83,"Musical, Drama, Romance            ",83
+84,Thriller            ,84
+85,"Comedy, Crime, Drama            ",85
+86,"Adventure, Crime, Drama            ",86
+87,"Action, Romance            ",87
+88,"Action, Comedy, Musical            ",88
+89,"Action, Comedy, Fantasy            ",89
+90,"Action, Adventure, Drama            ",90
+91,"Action, Romance, Thriller            ",91
+92,"Action, Crime, History            ",92
+93,"Biography, Drama, Thriller            ",93
+94,"Drama, Fantasy, Mystery            ",94
+95,"Musical, Romance, Drama            ",95
+96,"Action, History, Thriller            ",96
+97,"Action, Drama, Music            ",97
+98,"Horror, Mystery            ",98
+99,"Comedy, Family, Romance            ",99
+100,"Comedy, Crime            ",100
+101,"Crime, Drama, Musical            ",101
+102,"Crime, Mystery, Thriller            ",102
+103,"Comedy, Drama, Sport            ",103
+104,"Drama, Fantasy, Romance            ",104
+105,"Musical, Romance            ",105
+106,"Biography, Drama, Music            ",106
+107,"Drama, Mystery, Romance            ",107
+108,"Comedy, Sport            ",108
+109,"Comedy, Musical, Romance            ",109
+110,"Comedy, Family, Sci-Fi            ",110
+111,"Action, Drama, Horror            ",111
+112,Action            ,112
+113,"Romance, Comedy, Drama            ",113
+114,"Horror, Thriller            ",114
+115,"Crime, Mystery            ",115
+116,"Drama, Romance, Thriller            ",116
+117,"Comedy, Horror, Mystery            ",117
+118,"Animation, Family            ",118
+119,"Animation, Action, Adventure            ",119
+120,"Adventure, Drama            ",120
+121,"Romance, Comedy            ",121
+122,"Adventure, Horror, Mystery            ",122
+123,"Action, Drama, War            ",123
+124,"Adventure, Comedy, Crime            ",124
+125,"Adventure, Thriller            ",125
+126,"Romance, Action, Drama            ",126
+127,"Comedy, Romance, Sci-Fi            ",127
+128,"Animation, Action            ",128
+129,"Action, Biography, History            ",129
+130,"Drama, Musical, Family            ",130
+131,"Drama, Romance, Sport            ",131
+132,"Adventure, Drama, Romance            ",132
+133,"Horror, Mystery, Romance            ",133
+134,Sci-Fi            ,134
+135,"Drama, Horror, Romance            ",135
+136,"Biography, Drama, Romance            ",136
+137,"Drama, Musical            ",137
+138,"Action, Crime, Musical            ",138
+139,"Adventure, Drama, Crime            ",139
+140,"Action, Romance, Comedy            ",140
+141,"Drama, Romance, Musical            ",141
+142,"Fantasy, Horror, Romance            ",142
+143,"Action, Musical, Romance            ",143
+144,"Action, Horror, Thriller            ",144
+145,"Musical, Drama, Family            ",145
+146,"Musical, Comedy, Romance            ",146
+147,"Adventure, Drama, Family            ",147
+148,"Drama, Thriller, Action            ",148
+149,"Action, Comedy, Thriller            ",149
+150,"Animation, Family, Musical            ",150
+151,"Drama, Mystery            ",151
+152,"Action, Thriller, Crime            ",152
+153,"Drama, Family, Music            ",153
+154,"Mystery, Romance, Thriller            ",154
+155,"Drama, History, War            ",155
+156,"Fantasy, Drama            ",156
+157,"Comedy, Musical            ",157
+158,"Romance, Drama            ",158
+159,"Drama, Horror, Mystery            ",159
+160,"Horror, Sci-Fi, Thriller            ",160
+161,"Action, Mystery, Thriller            ",161
+162,"Drama, Horror, Musical            ",162
+163,"Drama, History, Thriller            ",163
+164,"Action, Mystery, Romance            ",164
+165,"Action, Musical, War            ",165
+166,"Comedy, Musical, Mystery            ",166
+167,"Animation, Sci-Fi            ",167
+168,"Horror, Romance, Thriller            ",168
+169,"Romance, Thriller            ",169
+170,"Drama, Romance, War            ",170
+171,"Comedy, Mystery            ",171
+172,"Family, Romance, Sport            ",172
+173,"Drama, Action, Crime            ",173
+174,"Musical, Drama, Action            ",174
+175,"Fantasy, Romance            ",175
+176,Animation            ,176
+177,"Musical, Drama, Comedy            ",177
+178,Crime            ,178
+179,"Action, Crime            ",179
+180,"Comedy, Fantasy, Romance            ",180
+181,"Comedy, Mystery, Thriller            ",181
+182,"Musical, Mystery, Romance            ",182
+183,"Drama, Action, Adventure            ",183
+184,"Adventure, Romance            ",184
+185,"Action, Crime, Romance            ",185
+186,Family            ,186
+187,"Comedy, Romance, Musical            ",187
+188,"Drama, Romance, Family            ",188
+189,"Drama, Musical, Mystery            ",189
+190,"Comedy, Fantasy            ",190
+191,"Comedy, Musical, Drama            ",191
+192,"Drama, Horror            ",192
+193,"Action, Musical, Drama            ",193
+194,"Romance, Musical, Drama            ",194
+195,"Comedy, Crime, Mystery            ",195
+196,"Musical, Drama, Thriller            ",196
+197,"Thriller, Musical, Mystery            ",197
+198,"Romance, Musical, Action            ",198
+199,"Action, Crime, Sci-Fi            ",199
+200,"Horror, Mystery, Thriller            ",200
+201,"Action, Fantasy, Sci-Fi            ",201
+202,"Action, Crime, Horror            ",202
+203,"Action, Comedy, Mystery            ",203
+204,"Drama, Comedy, Family            ",204
+205,"Mystery, Drama, Thriller            ",205
+206,"Adventure, Horror, Romance            ",206
+207,"Adventure, Comedy, Family            ",207
+208,Fantasy            ,208
+209,"Comedy, Drama, Thriller            ",209
+210,"Musical, Fantasy            ",210
+211,"Comedy, Mystery, Crime            ",211
+212,"Romance, Action, Crime            ",212
+213,"Musical, Family, Romance            ",213
+214,"Drama, Family, Comedy            ",214
+215,"Drama, Music, Romance            ",215
+216,Musical            ,216
+217,"Action, Fantasy, Thriller            ",217
+218,"Animation, History            ",218
+219,"Family, Drama            ",219
+220,"Animation, Adventure, Family            ",220
+221,"Action, Drama, Family            ",221
+222,"Drama, Fantasy            ",222
+223,"Mystery, Sci-Fi, Thriller            ",223
+224,"Fantasy, Family            ",224
+225,"Drama, Family, History            ",225
+226,"Fantasy, Thriller            ",226
+227,"Family, Romance            ",227
+228,"Drama, Fantasy, Musical            ",228
+229,"Crime, Drama, Fantasy            ",229
+230,"Action, Musical, Mystery            ",230
+231,"Musical, Mystery, Drama            ",231
+232,"Drama, Crime, Family            ",232
+233,"Family, Musical, Romance            ",233
+234,"Comedy, Crime, Romance            ",234
+235,"Comedy, Romance, Drama            ",235
+236,"Musical, Action, Drama            ",236
+237,"Adventure, Fantasy, Sci-Fi            ",237
+238,"Drama, History, Musical            ",238
+239,"Fantasy, Thriller, Action            ",239
+240,"Romance, Musical, Comedy            ",240
+241,"Action, Adventure, Family            ",241
+242,"Drama, Adventure, Action            ",242
+243,"Crime, Romance, Thriller            ",243
+244,"Musical, Drama, Crime            ",244
+245,"Comedy, Family            ",245
+246,"Comedy, Romance, Thriller            ",246
+247,"Fantasy, Mystery, Romance            ",247
+248,"Action, Drama, Comedy            ",248
+249,"Comedy, Drama, Mystery            ",249
+250,"Drama, Family, Thriller            ",250
+251,"Action, Crime, Mystery            ",251
+252,"Musical, Romance, Thriller            ",252
+253,"Crime, Musical, Romance            ",253
+254,"Fantasy, Musical, Romance            ",254
+255,"Musical, Thriller            ",255
+256,"Comedy, Drama, History            ",256
+257,"Drama, Family, Mystery            ",257
+258,"History, Musical, Romance            ",258
+259,"Crime, Romance            ",259
+260,"Drama, Family, Fantasy            ",260
+261,"Horror, Drama, Mystery            ",261
+262,"Family, Fantasy            ",262
+263,"Drama, Crime, Mystery            ",263
+264,"Action, Family            ",264
+265,"Comedy, War            ",265
+266,Mystery            ,266
+267,"Drama, Action, Comedy            ",267
+268,"Family, Mystery            ",268
+269,"Horror, Romance            ",269
+270,"Mystery, Sci-Fi            ",270
+271,"Action, Horror, Sci-Fi            ",271
+272,"Romance, Sci-Fi, Thriller            ",272
+273,"Drama, Fantasy, Thriller            ",273
+274,"Action, War            ",274
+275,"Adventure, Drama, Sci-Fi            ",275
+276,"Thriller, Action, Crime            ",276
+277,"Comedy, Crime, Family            ",277
+278,"Mystery, Romance, Musical            ",278
+279,"Biography, History            ",279
+280,"Drama, Comedy            ",280
+281,"Musical, Drama            ",281
+282,History            ,282
+283,"Animation, Comedy, Drama            ",283
+284,"Crime, Drama, Action            ",284
+285,"Family, Musical, Drama            ",285
+286,"Thriller, Mystery            ",286
+287,"Action, Drama, Western            ",287
+288,"Comedy, Family, Fantasy            ",288
+289,"Crime, Mystery, Romance            ",289
+290,Biography            ,290
+291,"Action, Thriller, Romance            ",291
+292,"Mystery, Musical, Romance            ",292
+293,"Crime, Horror, Mystery            ",293
+294,"Action, Fantasy            ",294
+295,"Action, Horror, Mystery            ",295
+296,"Musical, Thriller, Mystery            ",296
+297,"Action, Adventure, Musical            ",297
+298,"Crime, Drama, Horror            ",298
+299,"Drama, Action, Musical            ",299
+300,"Animation, Drama, Musical            ",300
+301,"Thriller, Action            ",301
+302,"Family, Romance, Drama            ",302
+303,"Fantasy, Horror            ",303
+304,"Adventure, History            ",304
+305,"Family, Romance, Comedy            ",305
+306,"Adventure, Musical, Romance            ",306
+307,"Family, Adventure, Fantasy            ",307
+308,"Musical, Mystery, Thriller            ",308
+309,Null,309
+310,"Comedy, Drama, Sci-Fi            ",310
+311,"Comedy, Musical, Family            ",311
+312,"Action, Drama, Crime            ",312
+313,"Adventure, Mystery, Thriller            ",313
+314,"Comedy, Action            ",314
+315,"Comedy, Musical, Action            ",315
+316,"Comedy, Sci-Fi            ",316
+317,"Crime, Drama, Family            ",317
+318,"Drama, Crime            ",318
+319,"Animation, Adventure            ",319
+320,"Biography, Crime, Thriller            ",320
+321,"Adventure, Comedy, Fantasy            ",321
+322,"Comedy, Horror, Musical            ",322
+323,"Animation, Adventure, Fantasy            ",323
+324,"Biography, Drama, War            ",324
+325,"Animation, Drama, Adventure            ",325
+326,"Drama, Action            ",326
+327,"Drama, Mystery, Sci-Fi            ",327
