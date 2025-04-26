@@ -1,0 +1,12 @@
+.git
+.gitignore
+.env
+myEnv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+chat_histories/
+logs/
+app.log
+*.db

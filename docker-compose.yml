@@ -1,0 +1,41 @@
+services:
+  app:
+    build: .
+    container_name: movie-query-app
+    ports:
+      - "8501:8501"
+    depends_on:
+      - mariadb
+    environment:
+      - MARIADB_HOST=mariadb
+      - MARIADB_PORT=3306
+      - MARIA_USER=root
+      - MARIA_PASS=rootpassword
+      - MARIA_DB=imdb_db
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    volumes:
+      - ./data:/app/data
+    networks:
+      - movie-network
+    restart: unless-stopped
+
+  mariadb:
+    image: mariadb:10.6
+    container_name: movie-mariadb
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=rootpassword
+      - MYSQL_DATABASE=imdb_db
+    volumes:
+      - mariadb_data:/var/lib/mysql
+    networks:
+      - movie-network
+    restart: unless-stopped
+
+networks:
+  movie-network:
+    driver: bridge
+
+volumes:
+  mariadb_data:
