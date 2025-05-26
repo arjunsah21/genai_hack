@@ -1,3 +1,21 @@
+[theme]
+primaryColor="#FF4B4B"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="sans serif"
+
+[server]
+enableCORS=false
+enableXsrfProtection=true
+
+[client]
+showErrorDetails=true
+
 [runner]
-magicEnabled = true
-enforceSerializableSessionState = true
+magicEnabled=true
+fastReruns=true
+
+[logger]
+level="info"
+messageFormat="%(asctime)s - %(name)s - %(levelname)s - %(message)s" 
